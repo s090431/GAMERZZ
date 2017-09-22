@@ -1,6 +1,6 @@
 body{
-  background-image: url("http://www.anaitgames.com/images/gallery/127039/U4_Concept_Cave-closeup_1421238949.jpg") no-repeat center center fixed;
-  background-size: cover;
+  background-image: url("http://www.anaitgames.com/images/gallery/127039/U4_Concept_Cave-closeup_1421238949.jpg");
+  background-size: 100%;
 }
 @font-face {
   font-family: bebas;
